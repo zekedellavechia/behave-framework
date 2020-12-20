@@ -4,13 +4,13 @@
 ### Installing Python
 Go to [Python Webpage](https://www.python.org/downloads/) and download the correct version for your OS.
 
-### Installing selenium
+### Installing Selenium
 In command promt type: 
 ```bash
 pip install selenium
 ```
 
-### Installing behave
+### Installing Behave
 In command promt type: 
 ```bash
 pip install behave
