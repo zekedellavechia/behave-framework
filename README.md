@@ -41,7 +41,7 @@ allure serve %allure_result_folder%
 ### Folder Structure(for now):
 ![image](https://user-images.githubusercontent.com/67669609/102725491-e1581900-42f5-11eb-8965-801015d3fa09.png)
 
-## Known issues:
+## Known issues
 For: 'allure' is not recognized as an internal or external command...
 Run the command: 
 ```bash
@@ -51,7 +51,7 @@ or
 
 Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
 
-## References:
+## References
 ### [Python Download](https://www.python.org/downloads/)
 ### [Selenium Documentation](https://www.selenium.dev/documentation/en/)
 ### [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
@@ -59,6 +59,3 @@ Install allure from its website([Allure-behave](https://pypi.org/project/allure-
 
 ## Contributing
 Pull requests and new ideas are always welcome.
-
-## License
-[Zeke](https://www.linkedin.com/in/ezequielagustind/)
