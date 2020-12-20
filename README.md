@@ -45,4 +45,5 @@ npm install -g allure-commandline --save-dev
 ```
 or
 
-Install allure from its website and set environmental variables till bin path
+Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
+
