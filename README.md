@@ -56,3 +56,9 @@ Install allure from its website([Allure-behave](https://pypi.org/project/allure-
 ### [Selenium Documentation](https://www.selenium.dev/documentation/en/)
 ### [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 ### [Allure Installation](https://pypi.org/project/allure-behave/)
+
+## Contributing
+Pull requests and new ideas are always welcome.
+
+## License
+[Zeke](https://www.linkedin.com/in/ezequielagustind/)
