@@ -1,9 +1,5 @@
 # Selenium with Python Behave(BDD)
 
-
-
-------------------------------------------------------------------------------------
-
 ## Allure instalation:
 Use pip install allure-behave
 
@@ -21,6 +17,3 @@ Install allure from its website and set environmental variables till bin path
 
 ### Report will look like this:
 ![allurereport](https://user-images.githubusercontent.com/67669609/102724727-79530400-42f0-11eb-9369-37f6ea97f2f0.png)
-
-
-------------------------------------------------------------------------------------
