@@ -23,3 +23,12 @@ def step_impl(context):
 @then('baseline survey shows up')
 def step_impl(context):
     context.driver.find_element_by_css_selector('h2[class="formio-page-title"]').click()
+
+
+@then('please enter a valid mail pop up shows up')
+def invalid_mail(context):
+    context.driver.find_element_by_css_selector('#error-message').is_displayed()
+
+@then('wrong email or password shows up')
+def invalid_password(context):
+    context.driver.find_element_by_css_selector('#error-message').is_displayed()
