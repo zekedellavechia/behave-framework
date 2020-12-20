@@ -1,5 +1,8 @@
 # Selenium with Python Behave(BDD) Framework
 
+## Introduction
+This is a quick guide to start this Framework.
+
 ## First steps
 ### Installing Python
 Go to [Python Webpage](https://www.python.org/downloads/) and download the correct version for your OS.
