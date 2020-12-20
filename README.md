@@ -52,5 +52,5 @@ or
 Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
 
 ## References:
-### ([Gherkin](https://cucumber.io/docs/gherkin/reference/))
+### [Gherkin](https://cucumber.io/docs/gherkin/reference/)
 
