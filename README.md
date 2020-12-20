@@ -2,7 +2,10 @@
 
 ## First steps
 ### Installing selenium
-In command promt type: pip install selenium
+In command promt type: 
+```bash
+pip install selenium
+```
 
 ### Installing behave
 In command promt type: 
@@ -13,7 +16,6 @@ If you just want to update type:
 ```bash
 pip install -U behave
 ```
-
 ![image](https://user-images.githubusercontent.com/67669609/102725004-5c1f3500-42f2-11eb-9331-fd60b55b769f.png)
 
 ## Allure Behave
