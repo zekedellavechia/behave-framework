@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 20 18:57:55 ART 2020","Sun Dec 20 18:58:05 ART 2020","10075","","","","","","user is eligible",""
+"passed","Sun Dec 20 18:58:05 ART 2020","Sun Dec 20 18:58:13 ART 2020","8340","","","","","","user is not eligible",""
+"passed","Sun Dec 20 18:58:13 ART 2020","Sun Dec 20 18:58:24 ART 2020","10281","","","","","","user logs in with valid credentials",""
