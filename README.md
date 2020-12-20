@@ -37,6 +37,10 @@ allure serve %allure_result_folder%
 ### Report will look like this:
 ![allurereport](https://user-images.githubusercontent.com/67669609/102724727-79530400-42f0-11eb-9369-37f6ea97f2f0.png)
 
+
+### Folder Structure(for now):
+![image](https://user-images.githubusercontent.com/67669609/102725491-e1581900-42f5-11eb-8965-801015d3fa09.png)
+
 ## Known issues:
 For: 'allure' is not recognized as an internal or external command...
 Run the command: 
