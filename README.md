@@ -1,5 +1,12 @@
 # Selenium with Python Behave(BDD) Framework
 
+## First steps
+### Installing selenium
+In command promt type: pip install selenium
+
+### Installing behave
+In command promt type: pip install behave if you just want to update type: pip install -U behave.
+
 ## Allure Behave
 ### Allure instalation:
 Use pip install allure-behave
