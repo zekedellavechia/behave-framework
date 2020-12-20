@@ -1,4 +1,4 @@
-Feature: User is eligible
+Feature: User eligibility tests
 
   Scenario: user is eligible
 
@@ -9,3 +9,11 @@ Feature: User is eligible
     Then verify consent to participate shows up
     And close browser
 
+  Scenario: user is not eligible
+
+    Given I go to start page
+    Then I click on start button
+    Then I select no in an answer
+    Then I select next
+    Then verify user not eligible text shows up
+    And close browser

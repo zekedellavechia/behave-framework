@@ -29,8 +29,9 @@ def select_no_in_an_answer(context):
 
 
 @then('I select next')
-def  click_next_button(context):
+def click_next_button(context):
     context.driver.find_element_by_xpath("//button[contains(text(),'Next')]").click()
+    time.sleep(2)
 
 
 @then('verify user not eligible text shows up')
@@ -40,11 +41,11 @@ def verify_user_not_eligible_text(context):
 
 @then('verify consent to participate shows up')
 def verify_consent_shows_up(context):
-    context.driver.find_element_by_css_selector('h2[class="page-title-uppercase"').is_displayed()
+    context.driver.find_element_by_css_selector('h2[class="page-title uppercase"').is_displayed()
 
 
 @then('close browser')
-def  close_browser(context):
+def close_browser(context):
     context.driver.close()
 
 
