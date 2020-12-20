@@ -7,11 +7,11 @@
 # Allure instalation:
 Use pip install allure-behave
 
-##For allure reports:
+## For allure reports:
 Run the formater to get the json files: behave -f allure_behave.formatter:AllureFormatter -o reports/ features
 Then use the serve to create the html: allure serve reports/
 
-##Errors solution:
+## Known issues:
 For: 'allure' is not recognized as an internal or external command...
 Run the command: npm install -g allure-commandline --save-dev
 
