@@ -1,6 +1,9 @@
 # Selenium with Python Behave(BDD) Framework
 
 ## First steps
+### Installing Python
+Go to [Python Webpage](https://www.python.org/downloads/) and download the correct version for your OS.
+
 ### Installing selenium
 In command promt type: 
 ```bash
