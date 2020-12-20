@@ -1,6 +1,7 @@
 # Selenium with Python Behave(BDD)
 
-## Allure instalation:
+## Allure Behave
+### Allure instalation:
 Use pip install allure-behave
 
 ### For allure reports:
