@@ -1,7 +1,8 @@
-# bdd
-BDD Framework
+# Selenium with Python Behave(BDD)
 
-Allure instalation:
+------------------------------------------------------------------------------------
+
+# Allure instalation:
 Use pip install allure-behave
 
 For allure reports:
@@ -15,3 +16,5 @@ Run the command: npm install -g allure-commandline --save-dev
 or
 
 Install allure from its website and set environmental variables till bin path
+
+------------------------------------------------------------------------------------
