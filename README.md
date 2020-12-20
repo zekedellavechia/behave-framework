@@ -1,4 +1,4 @@
-# Selenium with Python Behave(BDD)
+# Selenium with Python Behave(BDD) Framework
 
 ## Allure Behave
 ### Allure instalation:
