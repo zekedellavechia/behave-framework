@@ -27,11 +27,11 @@ pip install allure-behave
 ### For allure reports:
 Run the formater to get the json files:
 ```bash
-behave -f allure_behave.formatter:AllureFormatter -o reports/ features
+behave -f allure_behave.formatter:AllureFormatter -o %allure_result_folder% ./features
 ```
 Then use the serve to create the html: 
 ```bash
-allure serve reports/
+allure serve %allure_result_folder%
 ```
 
 ### Report will look like this:
@@ -46,4 +46,3 @@ npm install -g allure-commandline --save-dev
 or
 
 Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
-
