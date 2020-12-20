@@ -1,6 +1,7 @@
 # Selenium with Python Behave(BDD)
 
-![alt text](https://ibb.co/KVWL9RV)
+![allurereport](https://user-images.githubusercontent.com/67669609/102724727-79530400-42f0-11eb-9369-37f6ea97f2f0.png)
+
 ------------------------------------------------------------------------------------
 
 # Allure instalation:
