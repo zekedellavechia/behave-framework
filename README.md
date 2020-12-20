@@ -5,10 +5,13 @@
 In command promt type: pip install selenium
 
 ### Installing behave
-In command promt type: pip install behave if you just want to update type: pip install -U behave.
-
+In command promt type: 
 ```bash
 pip install behave
+```
+If you just want to update type: 
+```bash
+pip install -U behave
 ```
 
 ![image](https://user-images.githubusercontent.com/67669609/102725004-5c1f3500-42f2-11eb-9331-fd60b55b769f.png)
