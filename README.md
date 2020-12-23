@@ -24,11 +24,16 @@ pip install -U behave
 ```
 ![image](https://user-images.githubusercontent.com/67669609/102725004-5c1f3500-42f2-11eb-9331-fd60b55b769f.png)
 
+### Behave Webdriver:
+```bash
+pip install behave-webdriver
+```
 ## Allure Behave
 ### Allure instalation:
 ```bash
 pip install allure-behave
 ```
+
 
 ### For allure reports:
 Run the formater to get the json files:
@@ -65,6 +70,8 @@ Reports can be updated to Netlify to be accessible by other members.
 ### [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 ### [Allure Installation](https://pypi.org/project/allure-behave/)
 ### [Netlify](https://www.netlify.com/)
+### [Behave Webdriver](https://pypi.org/project/behave-webdriver/)
+
 
 ## Contributing
 Pull requests and new ideas are always welcome.
