@@ -1,5 +1,7 @@
 # Selenium with Python Behave(BDD) Framework
 
+![image](https://user-images.githubusercontent.com/67669609/102962381-81b06800-44c5-11eb-97f2-75d34ee65735.png)
+
 ## Introduction
 This is a quick guide to start this Framework.
 
