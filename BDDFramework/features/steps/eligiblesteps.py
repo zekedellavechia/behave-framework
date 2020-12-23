@@ -9,7 +9,7 @@ def open_start_page(context):
     context.driver.get('https://registry.qa.covid.gcp.rexdb.us/')
 
 
-@then('I click on start button')
+@when('I click on start button')
 def click_start_button(context):
     context.driver.find_element_by_xpath("//body/div[@id='heroCenter']/div[1]/div[1]/a[1]").click()
 
