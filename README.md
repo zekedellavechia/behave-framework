@@ -73,11 +73,11 @@ Reports can be updated to Netlify to be accessible by other members.
 ### [Netlify](https://www.netlify.com/)
 ### [Pipenv](https://pypi.org/project/pipenv/)
 ### [Behave Webdriver](https://pypi.org/project/behave-webdriver/)
-### [Behavior-Driven Python - PyCon 2018](https://www.youtube.com/watch?v=EtIAbfCrsFI&t=344s&ab_channel=PyCon2018)
 ### [Behavior driven python - OpenSource](https://opensource.com/article/18/5/behavior-driven-python)
 
-
-
+## Cool videos
+### [Behavior-Driven Python - PyCon 2018](https://www.youtube.com/watch?v=EtIAbfCrsFI&t=344s&ab_channel=PyCon2018)
+### [Gherkin Tutorial](https://www.youtube.com/watch?v=KP0vpVLatMc&ab_channel=RevalGovender)
 
 ## Contributing
 Pull requests and new ideas are always welcome.
