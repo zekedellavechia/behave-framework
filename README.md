@@ -52,7 +52,7 @@ allure serve %allure_result_folder%
 
 
 ### Folder Structure example:
-![image](https://user-images.githubusercontent.com/67669609/102962481-bc1a0500-44c5-11eb-8852-9f4845924300.png)
+![image](https://user-images.githubusercontent.com/67669609/102962763-495d5980-44c6-11eb-96b6-80e44703ab9c.png)
 
 ## Known issues
 For: 'allure' is not recognized as an internal or external command...
