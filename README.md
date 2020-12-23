@@ -66,12 +66,16 @@ Reports can be updated to Netlify to be accessible by other members.
 
 ## References
 ### [Python Download](https://www.python.org/downloads/)
+### [Behave docs](https://behave.readthedocs.io/en/latest/index.html)
 ### [Selenium Documentation](https://www.selenium.dev/documentation/en/)
 ### [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 ### [Allure Installation](https://pypi.org/project/allure-behave/)
 ### [Netlify](https://www.netlify.com/)
+### [Pipenv](https://pypi.org/project/pipenv/)
 ### [Behave Webdriver](https://pypi.org/project/behave-webdriver/)
 ### [Behavior-Driven Python - PyCon 2018](https://www.youtube.com/watch?v=EtIAbfCrsFI&t=344s&ab_channel=PyCon2018)
+
+
 
 ## Contributing
 Pull requests and new ideas are always welcome.
