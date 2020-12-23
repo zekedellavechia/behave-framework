@@ -7,7 +7,7 @@ Feature: User eligibility tests
     Then I select yes in all answers
     Then I select next
     Then verify consent to participate shows up
-    And close browser
+
 
   Scenario: user is not eligible
 
@@ -16,4 +16,3 @@ Feature: User eligibility tests
     Then I select no in an answer
     Then I select next
     Then verify user not eligible text shows up
-    And close browser

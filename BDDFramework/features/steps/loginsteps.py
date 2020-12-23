@@ -22,8 +22,13 @@ def step_impl(context):
 
 @then('baseline survey shows up')
 def step_impl(context):
-    context.driver.find_element_by_css_selector('h2[class="page-title"]').is_displayed()
-
+    try:
+        text = context.driver.find_element_by_xpath("//h2[contains(text(),'Eligibility')]").text
+    except:
+        context.driver.close()
+        assert False, "Baseline survey not showing up"
+    if text == "Eligibility":
+        assert True, "User reached the baseline survey"
 
 
 @then('please enter a valid mail pop up shows up')
