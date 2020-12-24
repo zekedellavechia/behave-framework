@@ -1,15 +1,13 @@
 from behave import *
-# from selenium import webdriver
-import behave_webdriver
+from selenium import webdriver
 import time
 
 
 @given('I go to start page')
 def open_start_page(context):
-    # context.driver = webdriver.Chrome()
-    context.behave_driver = behave_webdriver.Chrome()
-    context.behave_webdriver.Chrome.headless()
-    context.behave_webdriver.get('https://registry.qa.covid.gcp.rexdb.us/')
+    context.driver = webdriver.Chrome()
+    context.driver.maximize_window()
+    context.driver.get('https://registry.qa.covid.gcp.rexdb.us/')
 
 
 @when('I click on start button')
