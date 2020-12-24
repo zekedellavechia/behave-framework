@@ -36,8 +36,8 @@ Feature: User logs
     Then wrong email or password shows up
 
     Examples:
-      | username | password
-      | s        | passdqwqdwword
-      | ads      | passsssword
-      | ads      | passssswordli
+      | username       | password
+      | FakeUser       | FakePassword
+      | FakeUser2      | FakePassword
+      | FakeUser3      | FakePassword
 
