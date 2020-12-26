@@ -12,4 +12,61 @@ def step_impl(context):
     context.driver.find_element_by_xpath('//h1[contains(text(),"CARE Project")]')
 
 
+@when('I click the About button')
+def step_impl(context):
+    pass
 
+
+@then(u'About Page shows up')
+def step_impl(context):
+    pass
+
+
+@when(u'I click the Results button')
+def step_impl(context):
+    pass
+
+
+@then(u'Results Page shows up')
+def step_impl(context):
+    pass
+
+
+@when(u'I click the FAQ button')
+def step_impl(context):
+    pass
+
+
+@then(u'FAQ Page shows up')
+def step_impl(context):
+    pass
+
+
+@when(u'I click the Resources button')
+def step_impl(context):
+    pass
+
+
+@then(u'Resources Page shows up')
+def step_impl(context):
+    pass
+
+
+@when(u'I click the Our Partners button')
+def step_impl(context):
+    pass
+
+
+@then(u'Our Partners Page shows up')
+def step_impl(context):
+    pass
+
+
+@when(u'I click the Contact US button')
+def step_impl(context):
+    pass
+
+
+@then(u'Our Contact US Page shows up')
+def step_impl(context):
+    pass
