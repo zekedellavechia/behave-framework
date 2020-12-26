@@ -42,31 +42,31 @@ def step_impl(context):
     pass
 
 
-@when(u'I click the Resources button')
+@when('I click the Resources button')
 def step_impl(context):
     pass
 
 
-@then(u'Resources Page shows up')
+@then('Resources Page shows up')
 def step_impl(context):
     pass
 
 
-@when(u'I click the Our Partners button')
+@when('I click the Our Partners button')
 def step_impl(context):
     pass
 
 
-@then(u'Our Partners Page shows up')
+@then('Our Partners Page shows up')
 def step_impl(context):
     pass
 
 
-@when(u'I click the Contact US button')
+@when('I click the Contact US button')
 def step_impl(context):
     pass
 
 
-@then(u'Our Contact US Page shows up')
+@then('Our Contact US Page shows up')
 def step_impl(context):
     pass
