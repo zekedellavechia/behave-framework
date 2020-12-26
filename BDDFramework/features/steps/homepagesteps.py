@@ -9,35 +9,35 @@ def step_impl(context):
 
 @then('Home Page shows up')
 def step_impl(context):
-    context.driver.find_element_by_xpath('//h1[contains(text(),"CARE Project")]')
+    context.driver.find_element_by_xpath('//h1[contains(text(),"CARE Project")]').is_displayed()
 
 
 @when('I click the About button')
 def step_impl(context):
-    pass
+    context.driver.find_element_by_css_selector('a[href="https://registry.qa.covid.gcp.rexdb.us/about"]').click()
 
 
-@then(u'About Page shows up')
+@then('About Page shows up')
+def step_impl(context):
+    context.driver.find_element_by_xpath('//h2[contains(text(),"About the CARE Project")]').is_displayed()
+
+
+@when('I click the Results button')
 def step_impl(context):
     pass
 
 
-@when(u'I click the Results button')
+@then('Results Page shows up')
 def step_impl(context):
     pass
 
 
-@then(u'Results Page shows up')
+@when('I click the FAQ button')
 def step_impl(context):
     pass
 
 
-@when(u'I click the FAQ button')
-def step_impl(context):
-    pass
-
-
-@then(u'FAQ Page shows up')
+@then('FAQ Page shows up')
 def step_impl(context):
     pass
 
