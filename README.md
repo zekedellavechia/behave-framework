@@ -42,6 +42,11 @@ Run the formater to get the json files:
 ```bash
 behave -f allure_behave.formatter:AllureFormatter -o %allure_result_folder% ./features
 ```
+For example I like to put them in a results folder and in a folder with the current date of the execution:
+```bash
+behave -f allure_behave.formatter:AllureFormatter -o results/date
+```
+
 Then use the serve to create the html: 
 ```bash
 allure serve %allure_result_folder%
