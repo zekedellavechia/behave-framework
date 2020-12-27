@@ -1,25 +1,26 @@
 from behave import *
+from features.pages.homepage import *
 import time
 
 
 @when('I click the Home button')
 def click_home_page_button(context):
-    context.driver.find_element_by_css_selector('a[href="https://registry.qa.covid.gcp.rexdb.us"]').click()
+    context.driver.find_element_by_css_selector(homepage_button).click()
 
 
 @then('Home Page shows up')
 def home_page_is_displayed(context):
-    context.driver.find_element_by_xpath('//h1[contains(text(),"CARE Project")]').is_displayed()
+    context.driver.find_element_by_xpath(homepage_title).is_displayed()
 
 
 @when('I click the About button')
 def click_about_button(context):
-    context.driver.find_element_by_css_selector('a[href="https://registry.qa.covid.gcp.rexdb.us/about"]').click()
+    context.driver.find_element_by_css_selector(about_button).click()
 
 
 @then('About Page shows up')
 def about_page_is_displayed(context):
-    context.driver.find_element_by_xpath('//h2[contains(text(),"About the CARE Project")]').is_displayed()
+    context.driver.find_element_by_xpath(about_page_title).is_displayed()
 
 
 @when('I click the Results button')
