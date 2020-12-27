@@ -3,22 +3,22 @@ import time
 
 
 @when('I click the Home button')
-def step_impl(context):
+def click_home_page_button(context):
     context.driver.find_element_by_css_selector('a[href="https://registry.qa.covid.gcp.rexdb.us"]').click()
 
 
 @then('Home Page shows up')
-def step_impl(context):
+def home_page_is_displayed(context):
     context.driver.find_element_by_xpath('//h1[contains(text(),"CARE Project")]').is_displayed()
 
 
 @when('I click the About button')
-def step_impl(context):
+def click_about_button(context):
     context.driver.find_element_by_css_selector('a[href="https://registry.qa.covid.gcp.rexdb.us/about"]').click()
 
 
 @then('About Page shows up')
-def step_impl(context):
+def about_page_is_displayed(context):
     context.driver.find_element_by_xpath('//h2[contains(text(),"About the CARE Project")]').is_displayed()
 
 
