@@ -5,8 +5,6 @@ import time
 
 @given('I go to start page')
 def open_start_page(context):
-    context.driver = webdriver.Chrome()
-    context.driver.maximize_window()
     context.driver.get('https://registry.qa.covid.gcp.rexdb.us/')
 
 
