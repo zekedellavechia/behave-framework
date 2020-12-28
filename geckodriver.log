@@ -198,3 +198,207 @@ JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SA1Rk42U3VE
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1609114615350	geckodriver	INFO	Listening on 127.0.0.1:52822
+1609114618417	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileTxjbeG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114623411	Marionette	INFO	Listening on port 52830
+1609114623784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/screening, line 62: ReferenceError: t is not defined
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/consent, line 62: ReferenceError: t is not defined
+1609114634315	Marionette	INFO	Stopped listening on port 52830
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114635837	geckodriver	INFO	Listening on 127.0.0.1:52902
+1609114638906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile0ruJQT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114644051	Marionette	INFO	Listening on port 52910
+1609114644243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/screening, line 62: ReferenceError: t is not defined
+1609114652234	Marionette	INFO	Stopped listening on port 52910
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114653528	geckodriver	INFO	Listening on 127.0.0.1:52984
+1609114656576	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevJQ28F"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114661484	Marionette	INFO	Listening on port 52994
+1609114661943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114665253	Marionette	INFO	Stopped listening on port 52994
+[Child 1440, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114666411	geckodriver	INFO	Listening on 127.0.0.1:53063
+1609114669479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilekPtd5P"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114674461	Marionette	INFO	Listening on port 53075
+1609114674831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114677984	Marionette	INFO	Stopped listening on port 53075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114679259	geckodriver	INFO	Listening on 127.0.0.1:53142
+1609114682318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilelqbUcv"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114687348	Marionette	INFO	Listening on port 53150
+1609114687677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114689930	Marionette	INFO	Stopped listening on port 53150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114691265	geckodriver	INFO	Listening on 127.0.0.1:53219
+1609114694314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCf0JeT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114699358	Marionette	INFO	Listening on port 53227
+1609114699654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114701820	Marionette	INFO	Stopped listening on port 53227
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114703055	geckodriver	INFO	Listening on 127.0.0.1:53296
+1609114706118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileeVQYCB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114710964	Marionette	INFO	Listening on port 53304
+1609114711456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114713618	Marionette	INFO	Stopped listening on port 53304
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114714848	geckodriver	INFO	Listening on 127.0.0.1:53372
+1609114717903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileCXFtfZ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114722769	Marionette	INFO	Listening on port 53380
+1609114723277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114725991	Marionette	INFO	Stopped listening on port 53380
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114727356	geckodriver	INFO	Listening on 127.0.0.1:53446
+1609114730411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofiled2ke11"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114735386	Marionette	INFO	Listening on port 53454
+1609114735764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+1609114737979	Marionette	INFO	Stopped listening on port 53454
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114739239	geckodriver	INFO	Listening on 127.0.0.1:53521
+1609114742306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilef28lNl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114747352	Marionette	INFO	Listening on port 53529
+1609114747648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SByMV9DNEY2bE5xbGF5Z2MxNVBpNjBaWUQ4djAwc0hOWKN0aWTZIFBtRGNINWx3VDZ0eHhnaC1RdHBZVWZ0VnhKZ2J5dzZ0o2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114754118	Marionette	INFO	Stopped listening on port 53529
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114755505	geckodriver	INFO	Listening on 127.0.0.1:53604
+1609114758563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile7fGnDV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114763541	Marionette	INFO	Listening on port 53612
+1609114763898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SBpdktUWVhBYnhxOS05VEJfRDlBWER6Q01yT1cteThwaqN0aWTZIHU5WjEzdEQ0aXlYSFNsRXhpQUNUS1AtbnBOMjhPbEs0o2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114770418	Marionette	INFO	Stopped listening on port 53612
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114771538	geckodriver	INFO	Listening on 127.0.0.1:53686
+1609114774601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilel2q1H6"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114779695	Marionette	INFO	Listening on port 53694
+1609114779951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SBBNlIwSnNmNkJNczR6ci04UXZCU3JpWjJzc3cxVUZKRKN0aWTZIHphSHFqa1RzZGhVYk1mb0pQNGd1V3dVd2QwajZBLTNQo2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114786291	Marionette	INFO	Stopped listening on port 53694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114787437	geckodriver	INFO	Listening on 127.0.0.1:53771
+1609114790503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileIKsucU"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114795542	Marionette	INFO	Listening on port 53783
+1609114795837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SBoUGl3bjJzNDZUYWp5SGh2M0NIZklYY1gxWTNtYnVpZqN0aWTZIG1rSHIyTUFqVHNIcjZuVFYtaGtlS1FlVlpuUWNVM0pLo2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114802417	Marionette	INFO	Stopped listening on port 53783
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114803652	geckodriver	INFO	Listening on 127.0.0.1:53859
+1609114806702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilewePxjS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114811594	Marionette	INFO	Listening on port 53867
+1609114812049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SBMN2V2bUwzbTgySXBwZ1ZLOE9HWXVFNW9kRlpHM0EtaqN0aWTZIFVOa1BrcFhwSDZtbGlQNy1UOVFMRVBwOXNoY0ota2lro2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114818656	Marionette	INFO	Stopped listening on port 53867
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114820004	geckodriver	INFO	Listening on 127.0.0.1:53941
+1609114823053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilectcdoC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114827988	Marionette	INFO	Listening on port 53949
+1609114828416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SAtdlhxTWVaZlNfZVVYOUZVZWhqdk1wOEFqQXVwNTdWUKN0aWTZIEFiU0VvMkI3LWFueGhZVHo0NVFtaXJxelFDUUhDcDBPo2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114835136	Marionette	INFO	Stopped listening on port 53949
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609114836389	geckodriver	INFO	Listening on 127.0.0.1:54021
+1609114839462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilefUNgdM"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609114844281	Marionette	INFO	Listening on port 54029
+1609114844325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://registry.qa.covid.gcp.rexdb.us/, line 62: ReferenceError: t is not defined
+JavaScript error: https://covid-933337-qa.auth0.com/login?state=g6Fo2SBldzU1Y0xLaURhUHByRURHOE1hOTZKbm52VlNXb2Rjb6N0aWTZIE53cnBfM05MLXFfcXc3b2FtdURFTl84NkVDNWRvckxwo2NpZNkgNFZQNnpENUwwcTBHNlEyaDRPdnhublFGOTdETTJjOUw&client=4VP6zD5L0q0G6Q2h4OvxnnQF97DM2c9L&protocol=oauth2&prompt=login&scope=openid%20profile%20email&response_mode=query&response_type=code&redirect_uri=https%3A%2F%2Fregistry.qa.covid.gcp.rexdb.us%2Fauth0%2Fcallback&lang=en&tab=login, line 295: ReferenceError: t is not defined
+1609114851035	Marionette	INFO	Stopped listening on port 54029
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
