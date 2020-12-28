@@ -64,7 +64,7 @@ allure serve results/date
 ![image](https://user-images.githubusercontent.com/67669609/102962763-495d5980-44c6-11eb-96b6-80e44703ab9c.png)
 
 ## Known issues
-For: 'allure' is not recognized as an internal or external command...
+. For: 'allure' is not recognized as an internal or external command...
 Run the command: 
 ```bash
 npm install -g allure-commandline --save-dev
@@ -74,6 +74,15 @@ or
 Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
 
 Reports can be updated to Netlify to be accessible by other members.
+
+. For: ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
+
+Please set the JAVA_HOME variable in your environment to match the
+location of your Java installation.
+
+Install JDK:
+[JAVA JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
+and add the path to environment, example C:\Program Files\Java\jdk-15.0.1
 
 ## References
 ### [Python Download](https://www.python.org/downloads/)
