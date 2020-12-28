@@ -61,7 +61,7 @@ allure serve results/date
 
 
 ### Folder Structure example:
-![image](https://user-images.githubusercontent.com/67669609/102962763-495d5980-44c6-11eb-96b6-80e44703ab9c.png)
+![folders](https://user-images.githubusercontent.com/67669609/103218324-701df480-48f9-11eb-8c57-d711c8013c9d.png)
 
 ## Known issues
 ### For: 
