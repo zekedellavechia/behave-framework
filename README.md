@@ -57,7 +57,7 @@ allure serve results/date
 ```
 
 ### Report will look like this:
-![allurereport](https://user-images.githubusercontent.com/67669609/102724727-79530400-42f0-11eb-9369-37f6ea97f2f0.png)
+![allure-report](https://user-images.githubusercontent.com/67669609/103218166-1c131000-48f9-11eb-9c64-bdbbd8383765.png)
 
 
 ### Folder Structure example:
