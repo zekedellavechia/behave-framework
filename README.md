@@ -80,7 +80,8 @@ For: ERROR: JAVA_HOME is not set and no 'java' command could be found in your PA
 Please set the JAVA_HOME variable in your environment to match the
 location of your Java installation.
 
-Install JDK: https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+Install JDK:
+### [JAVA JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 and add the path to environment, example C:\Program Files\Java\jdk-15.0.1
 
 ## References
