@@ -75,6 +75,14 @@ Install allure from its website([Allure-behave](https://pypi.org/project/allure-
 
 Reports can be updated to Netlify to be accessible by other members.
 
+For: ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
+
+Please set the JAVA_HOME variable in your environment to match the
+location of your Java installation.
+
+Install JDK: https://www.oracle.com/java/technologies/javase-jdk15-downloads.html
+and add the path to environment, example C:\Program Files\Java\jdk-15.0.1
+
 ## References
 ### [Python Download](https://www.python.org/downloads/)
 ### [Behave docs](https://behave.readthedocs.io/en/latest/index.html)
