@@ -72,7 +72,8 @@ npm install -g allure-commandline --save-dev
 ```
 or
 
-Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
+Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path. 
+More info related ([Allure errors])(https://www.xspdf.com/resolution/55028618.html#:~:text=It%20may%20be%20that%20the,be%20launched%20with%20Command%20Prompt.)
 
 Reports can be updated to Netlify to be accessible by other members.
 
