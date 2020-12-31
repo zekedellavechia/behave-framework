@@ -24,12 +24,12 @@ def about_page_is_displayed(context):
 
 
 @when('I click the Results button')
-def step_impl(context):
+def click_results_button(context):
     pass
 
 
 @then('Results Page shows up')
-def step_impl(context):
+def results_page_shows_up(context):
     pass
 
 
