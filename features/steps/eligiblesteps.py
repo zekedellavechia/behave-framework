@@ -29,13 +29,13 @@ def select_no_in_an_answer(context):
 
 @then('I select next')
 def click_next_button(context):
-    context.driver.find_element_by_xpath("//button[contains(text(),'Next')]").click()
+    context.driver.find_element_by_css_selector("div.form-group button").click()
     time.sleep(2)
 
 
 @then('verify user not eligible text shows up')
 def verify_user_not_eligible_text(context):
-    context.driver.find_element_by_css_selector('div[class="not-eligible-notification"]').is_displayed()
+    context.driver.find_element_by_css_selector('#general-not-eligible').is_displayed()
 
 
 @then('verify consent to participate shows up')
