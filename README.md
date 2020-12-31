@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/67669609/102962381-81b06800-44c5-11eb-97f2-75d34ee65735.png)
 
 ## Introduction
-This is a quick guide to start this Framework!!!
+This is a quick guide to start this Framework.
 
 ## First steps
 ### Installing Python
@@ -57,29 +57,33 @@ allure serve results/date
 ```
 
 ### Report will look like this:
-![allurereport](https://user-images.githubusercontent.com/67669609/102724727-79530400-42f0-11eb-9369-37f6ea97f2f0.png)
+![allure-report](https://user-images.githubusercontent.com/67669609/103218166-1c131000-48f9-11eb-9c64-bdbbd8383765.png)
 
 
 ### Folder Structure example:
-![image](https://user-images.githubusercontent.com/67669609/102962763-495d5980-44c6-11eb-96b6-80e44703ab9c.png)
+![folders](https://user-images.githubusercontent.com/67669609/103218324-701df480-48f9-11eb-8c57-d711c8013c9d.png)
 
 ## Known issues
-. For: 'allure' is not recognized as an internal or external command...
+### For: 
+'allure' is not recognized as an internal or external command...
 Run the command: 
 ```bash
 npm install -g allure-commandline --save-dev
 ```
 or
 
-Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path.
+Install allure from its website([Allure-behave](https://pypi.org/project/allure-behave/)) and set environmental variables till bin path. 
+More info related: [Allure errors](https://www.xspdf.com/resolution/55028618.html#:~:text=It%20may%20be%20that%20the,be%20launched%20with%20Command%20Prompt.)
 
 Reports can be updated to Netlify to be accessible by other members.
 
-. For: ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
+### For: 
+```bash
+ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
 
 Please set the JAVA_HOME variable in your environment to match the
 location of your Java installation.
-
+```
 Install JDK:
 [JAVA JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)
 and add the path to environment, example C:\Program Files\Java\jdk-15.0.1
