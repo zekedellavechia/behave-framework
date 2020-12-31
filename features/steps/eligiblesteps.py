@@ -10,7 +10,7 @@ def open_start_page(context):
 
 @when('I click on start button')
 def click_start_button(context):
-    context.driver.find_element_by_xpath("//body/div[@id='heroCenter']/div[1]/div[1]/a[1]").click()
+    context.driver.find_element_by_css_selector('a.cta.cta-start.mt-20.mb-20').click()
 
 
 @then('I select yes in all answers')

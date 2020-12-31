@@ -17,7 +17,6 @@ def type_user_and_password(context, user, password):
 @when('I confirm the log in')
 def click_confirm_log_in(context):
     context.driver.find_element_by_css_selector('#btn-login').click()
-    time.sleep(2)
 
 
 @then('baseline survey shows up')
