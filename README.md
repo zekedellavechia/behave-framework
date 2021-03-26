@@ -110,4 +110,5 @@ and add the path to environment, example C:\Program Files\Java\jdk-15.0.1
 ## Contributing
 Pull requests and new ideas are always welcome.
 
-
+## To Do
+Add integration with slack.
